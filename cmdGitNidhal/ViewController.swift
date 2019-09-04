@@ -14,8 +14,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("none")
+        print("solve")
     }
 
+    func sum2(a : Int) -> Int {
+        return a * 3
+    }
 
 }
 

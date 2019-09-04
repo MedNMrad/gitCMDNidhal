@@ -15,10 +15,7 @@ class New1ViewController: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-    
-    func sum(a : Int) -> Int {
-        return a * 3
-    }
+
 
     /*
     // MARK: - Navigation
