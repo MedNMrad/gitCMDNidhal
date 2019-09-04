@@ -13,10 +13,13 @@ class New1ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        
     }
 
+<<<<<<< HEAD
     func separategh()  {
         
     }
+=======
+>>>>>>> devOEC1
 }
