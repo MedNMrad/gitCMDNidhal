@@ -22,12 +22,9 @@ class ViewController: UIViewController {
         return a * 5
     }
     
-    func sum3(a : Int) -> Int {
-        return a * 3
-    }
-    
-    func sum4(a : Int) -> Int {
-        return a * 3
+
+    func hellobranch()  {
+        print("hell street")
     }
 
 }
